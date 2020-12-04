@@ -1,0 +1,7 @@
+# @package _group_
+inputsz: 784
+numclass: 10
+hiddensz: 500
+embeddingsz: 50
+decoder_type: bernoulli
+alpha: 0.1
